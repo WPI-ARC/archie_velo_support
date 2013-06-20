@@ -91,7 +91,7 @@
   </group>
 
   <!-- Head Kinect -->
-  <include file="/etc/ros/fuerte/openni_head.launch" />
+  <include file="/etc/ros/groovy/openni_head.launch" />
 
   <!-- Forearm Camera -->
   <include file="$(find pr2_bringup)/config/r_forearm_cam.launch" />
